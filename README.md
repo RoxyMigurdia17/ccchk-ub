@@ -1,6 +1,6 @@
 # CC CHECKER & SCRAPPER USERBOT
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/RoxyMigurdia17/ccchk-ub)
 
 
 **Requirements to run this userbot**
